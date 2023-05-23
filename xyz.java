@@ -1,3 +1,3 @@
-class xyz {
+class xyz  {
 
 }
